@@ -32,6 +32,8 @@ class GroceryPage extends StatelessWidget {
     GroceryItem('Tomato', 'assets/items/tomato.png'),
     GroceryItem('Yogurt', 'assets/items/yogurt.png'),
     GroceryItem('Cheese', 'assets/items/cheese.png'),
+    GroceryItem('Apple', 'assets/items/apple.png'),
+    GroceryItem('Milk', 'assets/items/milk.png'),
   ];
 
   @override
